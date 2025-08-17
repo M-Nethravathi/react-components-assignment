@@ -1,0 +1,9 @@
+react-components/
+├── src/
+│   ├── components/
+│   │   ├── InputField/
+│   │   └── DataTable/
+│   └── App.tsx
+├── .storybook/
+├── public/
+└── package.json
